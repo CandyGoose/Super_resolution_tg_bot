@@ -4,6 +4,8 @@ ___Image upscale tg bot___ - бот, которому можно отправи�
 
 Для запуска необходимо создать переменную окружения `TG_BOT_TOKEN` и запустить `python app.py`.
 
+<a href="https://t.me/sup_resolution_bot">Ссылка на бота<a>
+
 Скриншот:
 
 <img src="https://github.com/VeraKasianenko/VeraKasianenko/assets/112972833/7cd8a494-ebd2-449b-8a2d-887eba36a882" alt="screen">
